@@ -15,4 +15,4 @@ This project classifies news as fake or real using machine learning models.
 
 ## How to Run
 pip install -r requirements.txt  
-python main.py
+python main_.py
